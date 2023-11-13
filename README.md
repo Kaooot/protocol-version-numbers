@@ -1,4 +1,9 @@
-# Minecraft versions
+# NOTICE
+
+### This list may not always be complete. An up-to-date list of versions is provided at the following URL: https://dl.kaooot.de/versions.json
+<hr>
+
+## Minecraft versions
 
 | Version                                                    | Protocol |
 |------------------------------------------------------------|----------|
