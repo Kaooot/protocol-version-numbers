@@ -1,4 +1,4 @@
-## Minecraft versions
+# Minecraft versions
 | Version    | Protocol | Date       |
 |------------|----------|------------|
 | 1.20.51.1  | 630      | 14-12-2023 |
